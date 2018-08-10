@@ -1,7 +1,7 @@
 # redis-keepalived
 keepalived+expect方式实现redis主从高可用
 
-**架构：
+**架构：**
 
 ![Image text](https://raw.githubusercontent.com/loong576/redis-keepalived/master/img-folder/redis-keepalived02.jpg)
 
